@@ -13,15 +13,18 @@ module.exports = {
     }]
   ],
   themeConfig: {
-    nav: [ // NavBarの設定
+    nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide/' },
-    ],
-    sidebar: [ // SideBarの設定
+      { text: 'About', link: '/about.html' },
+      { text: 'Blog', link: 'https://example.com/' },
       {
-        title: 'Home',
-        path: '/'
-      },
+        text: 'SNS',
+        items: [
+          { text: 'Twitter', link: 'https://twitter.com/' },
+          { text: 'Instagram', link: 'https://www.instagram.com/' },
+          { text: 'GitHub', link: 'https://github.com/' }
+        ]
+      }
     ]
   }
 }
