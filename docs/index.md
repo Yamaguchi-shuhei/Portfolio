@@ -4,10 +4,14 @@
 - ハンドルネームはitero1191
 
 ## Major
-
+- 研究室未定
 ## Minor
+- DataSience
 
 ## Products
-
+- UnityでGame作っています.
+- PythonでWebApp作っています
+- JavaScriptsでなんか作ろうと思っています
+- ViewPressとNetlifyでこれを作りました
 ## Skill
 

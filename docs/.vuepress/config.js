@@ -3,7 +3,7 @@ module.exports = {
   locales: {
     '/': {
       lang: 'ja', // 言語設定
-      title: 'vuepress-demo', // タイトルの設定
+      title: 'Portfolio', // タイトルの設定
       description: 'vuepress-demoです',  // meta descriptionの設定
     }
   },
@@ -20,9 +20,9 @@ module.exports = {
       {
         text: 'SNS',
         items: [
-          { text: 'Twitter', link: 'https://twitter.com/' },
-          { text: 'Instagram', link: 'https://www.instagram.com/' },
-          { text: 'GitHub', link: 'https://github.com/' }
+          { text: 'Twitter', link: 'https://mobile.twitter.com/home' },
+          { text: 'Instagram', link: 'https://www.instagram.com/shuhei_1412/' },
+          { text: 'GitHub', link: 'https://github.com/Yamaguchi-shuhei' }
         ]
       }
     ]
