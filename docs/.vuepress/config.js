@@ -1,19 +1,27 @@
 module.exports = {
+  base: '/', // base URL
+  locales: {
+    '/': {
+      lang: 'ja', // 言語設定
+      title: 'vuepress-demo', // タイトルの設定
+      description: 'vuepress-demoです',  // meta descriptionの設定
+    }
+  },
+  head: [
+    ['meta', { // meta keywordsの設定
+      name: "keywords", content: "vuepress, netlify"
+    }]
+  ],
   themeConfig: {
-    nav: [
+    nav: [ // NavBarの設定
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about.html' },
-      { text: 'Blog', link: 'https://example.com/' },
+      { text: 'Guide', link: '/guide/' },
+    ],
+    sidebar: [ // SideBarの設定
       {
-        text: 'SNS',
-        items: [
-          { text: 'Twitter', link: 'https://twitter.com/' },
-          { text: 'Instagram', link: 'https://www.instagram.com/' },
-          { text: 'GitHub', link: 'https://github.com/' }
-        ]
-      }
+        title: 'Home',
+        path: '/'
+      },
     ]
   }
 }
-  
- 
