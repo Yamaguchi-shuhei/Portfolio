@@ -6,7 +6,7 @@
 ## Major
 - 研究室未定
 ## Minor
-- DataSience
+- DataSience(kaggle)
 
 ## Products
 - UnityでGame作っています.

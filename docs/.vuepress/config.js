@@ -12,6 +12,7 @@ module.exports = {
       name: "keywords", content: "vuepress, netlify"
     }]
   ],
+
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
@@ -20,7 +21,7 @@ module.exports = {
       {
         text: 'SNS',
         items: [
-          { text: 'Twitter', link: 'https://mobile.twitter.com/home' },
+          { text: 'Twitter', link: 'https://mobile.twitter.com/itero1191' },
           { text: 'Instagram', link: 'https://www.instagram.com/shuhei_1412/' },
           { text: 'GitHub', link: 'https://github.com/Yamaguchi-shuhei' }
         ]
