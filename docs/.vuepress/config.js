@@ -17,13 +17,13 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About', link: '/about.html' },
-      { text: 'Blog', link: 'https://example.com/' },
+      { text: 'Blog', link: 'https://imawa841.hateblo.jp/' },
       {
         text: 'SNS',
         items: [
           { text: 'Twitter', link: 'https://mobile.twitter.com/itero1191' },
           { text: 'Instagram', link: 'https://www.instagram.com/shuhei_1412/' },
-          { text: 'GitHub', link: 'https://github.com/Yamaguchi-shuhei' }
+          { text: 'GitHub', link: 'https://github.com/imawa841' }
         ]
       }
     ]
