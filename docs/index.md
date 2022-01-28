@@ -8,6 +8,7 @@
 - ResearchContent : 半導体, IC系研究室
 - HandleName : yamarico
 - Circle : HaitLab(Primary 5th term)
+- 学部3年からプログラム始めましたひよこプログラマーです.
 ## 色々
 - 42Tokyo(9/27〜10/23) : 入学試験　→　合格(2022/7月入学) 
 - 技育展 : 初めてのアウトプット1([SortFont](https://github.com/sort-font/webpage))
