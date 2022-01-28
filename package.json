@@ -2,7 +2,7 @@
   "name": "sample-site",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Yamaguchi-shuhei/portfolio.git",
+  "repository": "https://github.com/yamarico/github.io",
   "author": "Yamaguchi-shuhei <81962317+Yamaguchi-shuhei@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
