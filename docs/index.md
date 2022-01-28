@@ -1,5 +1,5 @@
 <img src="yamarico.PNG" width="300" height=300 >  <img src="shuhei.png" width=300 height=300 >
-- ポートフェリオ自体発展途上です. 英語日本語混じっててうっといので時間があり次第日本語表示と英語表示に分けます.
+- ポートフェリオ自体発展途上です. 英語日本語混じっててうっといので時間があり次第日本語表示と英語表示に分けます. 簡単な自己紹介用に書いています.暇なときに高速で打っているので誤字には目をつぶりくださいませ
 ## 自己紹介
 - Name : 山口 修平(YAMAGUCHI SHUHEI)
 - University : 日本大学 (B3)
@@ -14,6 +14,7 @@
 - JPHach : 個人応募部門([スキマ](https://github.com/jphacks/C_2122))
 - UnityでGame作っています.(製作中)
 - ViewPressを使いNetlifyでデプロイしてこれを作りました[ポートフェリオ](https://github.com/yamarico/Portfolio).
+- まだ灰ですが競プロ始めました.(1/20)
 ## Skill
 ### よく使う言語(全体的に初心者ではあります.)
 
@@ -37,6 +38,9 @@
 
 ### 開発に少し使ったもの
 - docker, flask, html, css, javscript, nodejs, lightsql(書けなくて大戦犯したことあり)
+
+### 触ったことのあるもの(または現在学習中もの)
+- php, ruby, wordpress
 ### 大学で扱ったもの
 - Labview, ltspice, C++
 

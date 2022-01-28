@@ -5,4 +5,3 @@ https://upd.world/vuepress-document/ を参考にやりました. Netlifyでデ�
 npm run build
 npm run dev
 ```
-

@@ -20,7 +20,7 @@ module.exports = {
       {
         text: 'SNS',
         items: [
-          { text: 'Twitter', link: 'https://mobile.twitter.com/itero1191' },
+          { text: 'Twitter', link: 'https://twitter.com/yamarico9492' },
           { text: 'Instagram', link: 'https://www.instagram.com/shuhei_1412/' },
           { text: 'GitHub', link: 'https://github.com/yamarico' }
         ]
