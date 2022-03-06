@@ -38,10 +38,10 @@
 |<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width=50 height=50 ><br> VS|C#書くときに使っています.|
 
 ### 開発に少し使ったもの
-- docker, flask, html, css, javscript, nodejs, lightsql(書けなくて大戦犯したことあり)
+- docker, flask, html, css, javscript, nodejs, lightsql(書けなくて大戦犯したことあり), blender
 
 ### 触ったことのあるもの(または現在学習中もの)
-- php, ruby, wordpress
+- php, ruby, wordpress, go
 ### 大学で扱ったもの
 - Labview, ltspice, C++
 

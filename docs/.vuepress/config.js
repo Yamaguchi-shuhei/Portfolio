@@ -22,7 +22,11 @@ module.exports = {
         items: [
           { text: 'Twitter', link: 'https://twitter.com/yamarico9492' },
           { text: 'Instagram', link: 'https://www.instagram.com/shuhei_1412/' },
-          { text: 'GitHub', link: 'https://github.com/yamarico' }
+          { text: 'GitHub', link: 'https://github.com/yamarico' },
+          { text: 'AtCoder', link: 'https://atcoder.jp/users/yamarico' },
+          { text: 'kaggle', link: 'https://www.kaggle.com/yamaguchishuhei' },
+          { text: 'Speakerdeck', link: 'https://speakerdeck.com/yamarico' },
+
         ]
       }
     ]
